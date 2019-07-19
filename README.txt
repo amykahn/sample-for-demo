@@ -2,6 +2,7 @@ Striped by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+hello there world, this is an edit that I will take out.
 
 And here's a new one: Striped, which features a clean, minimalistic design, styling for
 all basic page elements (including blockquotes, tables and lists), a repositionable
